@@ -1,19 +1,17 @@
-li {
-    padding: 5px;
-    margin: 5px;
-    background: #faebd7;
+
+#c1 {
+    float: left;
+    width: 65%;
+    overflow: hidden;
   }
   
-  .label {
-    font-weight: bold;
+  #c2 {
+    overflow: hidden;
+  }
+
+  #c3 {
+    float: left;
+    width: 65%;
+    overflow: hidden;
   }
   
-  .create-update-form {
-    padding: 5px;
-    margin: 5px;
-    background: aqua;
-  }
-  
-  .form-group {
-    margin-bottom: 5px;
-  }
